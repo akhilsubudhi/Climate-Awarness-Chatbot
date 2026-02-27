@@ -223,7 +223,7 @@ These limitations are **intentional**, as the goal is to **demonstrate core RAG 
 
 ## 👤 Author
 
-**Harshit Bodala**
+**Akhil Subudhi**
 AI / ML & Data Science Enthusiast
 
 ---
